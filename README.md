@@ -129,10 +129,10 @@ cd wine-quality-classification)
 (jupyter notebook notebooks/)
  
 ### **Reference:**
- 
+
+
 *Machine Learning Using Python. Author: Mighty Itauma Itauma, PhD, Published August 16, 2024. (https://amightyo.quarto.pub/machine-learningusing-python/)*
+
+**Thank You Prof. Itauma for encouraging us and teaching various methods in Machine learning class along with various platforms that help us in real time environment. The classes were interactive and helped us gain insight and detailed understanding of ML.**
  
  
-UCI Machine Learning Repository
-Discover datasets around the world!
- # ML_Final-Project
